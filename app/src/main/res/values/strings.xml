@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilePicker</string>
+    <string name="permission_request_label">Give permission</string>
+    <string name="go_parent_label">"⬆️ Parent folder"</string>
+    <string name="folder_item">🗂 %1$s</string>
+    <string name="file_item">📄 %1$s</string>
+</resources>
